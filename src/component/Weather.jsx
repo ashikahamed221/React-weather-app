@@ -39,7 +39,7 @@ const Weather = () => {
       return;
     }
     try{
-      const API_KEY = '2947936a51d88e4ae9d4bc3e4aa8624a'
+      const API_KEY = 'your key'
       const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
 
       const responce = await fetch(url);
