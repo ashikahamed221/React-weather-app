@@ -19,7 +19,6 @@ A fast and modern weather application built with **React** and **Vite**. It fetc
 - 🌍 Search weather by city name
 - 📍 Get current location weather
 - 🌡️ Shows temperature, humidity, and wind speed
-- 🕐 Local time of the city
 - 🎨 Responsive and clean UI
 
 ## 📦 Installation
