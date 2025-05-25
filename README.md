@@ -2,17 +2,12 @@
 
 A fast and modern weather application built with **React** and **Vite**. It fetches real-time weather data from the OpenWeatherMap API and displays weather conditions in a clean and responsive UI.
 
-## 🚀 Live Demo
-
-[Click here to view the live demo](https://your-deployed-app-link.com)
-
 ## 🛠️ Tech Stack
 
 - ⚛️ React
 - ⚡ Vite
 - 🌐 OpenWeatherMap API
-- 💅 CSS / Tailwind CSS (if used)
-- 📦 Axios (for API requests)
+- 💅 CSS 
 
 ## 📸 Screenshots
 
@@ -38,12 +33,7 @@ A fast and modern weather application built with **React** and **Vite**. It fetc
          npm install
 
 # 5. Start the development server
-npm run dev
+         npm run dev
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
 
 
