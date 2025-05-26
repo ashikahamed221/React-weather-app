@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+# 🌤️ Weather App 
 
 A fast and modern weather application built with **React** and **Vite**. It fetches real-time weather data from the OpenWeatherMap API and displays weather conditions in a clean and responsive UI.
 
