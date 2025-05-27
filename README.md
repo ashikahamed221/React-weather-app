@@ -23,7 +23,7 @@ A fast and modern weather application built with **React** and **Vite**. It fetc
 
 ## 📦 Installation
     # 1. Clone the repository
-         git clone https://github.com/yourusername/weather-app.git
+           git clone https://github.com/yourusername/weather-app.git
 
     # 2. Navigate to the project folder
          cd weather-app
